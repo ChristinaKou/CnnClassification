@@ -1,1 +1,1 @@
-# Congitive+ hiring test
+# Classification of CIFAR-100 image dataset
