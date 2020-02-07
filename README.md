@@ -1,1 +1,1 @@
-# Classification of CIFAR-100 image dataset
+1. Classification of CIFAR-100 image dataset 
